@@ -1,1 +1,3 @@
 T8 (unchanged booking data) is evidenced visually by comparing the booking table or timeline across functional tests, not by a separate screenshot. T9 is an extra empty-input test. The implementation/debugging folder contains intermediate screenshots, not final code evidence. Extract before uploading individual files to GitHub.
+
+New evidence: full and production-only dependency audits, remediation output, regression tests, GitHub sync, and repository metadata/viewer inspection. Standalone build success and exact synced commit not evidenced. ZIP is for organization; extract and upload individual files to GitHub, not the ZIP to the professor.
