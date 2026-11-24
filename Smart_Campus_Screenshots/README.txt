@@ -1,0 +1,1 @@
+T8 (unchanged booking data) is evidenced visually by comparing the booking table or timeline across functional tests, not by a separate screenshot. T9 is an extra empty-input test. The implementation/debugging folder contains intermediate screenshots, not final code evidence. Extract before uploading individual files to GitHub.
